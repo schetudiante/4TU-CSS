@@ -1,4 +1,4 @@
-#Has basic stuff around 'social networks' and 'nlp' -> found interesting the slides about NLP (research)
+# Has basic stuff around 'social networks' and 'nlp' -> found interesting the slides about NLP (research)
 
 This repository hosts all information on the workshop for Computation Social Science (CSS) organised by the four technical universities in the Netherlands.
 
